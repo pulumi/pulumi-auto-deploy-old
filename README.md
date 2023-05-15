@@ -13,6 +13,8 @@ The following example configures automatic deployment of stacks with the followi
 
 Whenever a node in the graph is updated, all downstream nodes will be automatically updated via a webhook triggering Pulumi Deployments.
 
+![](./auto-deploy.gif)
+
 ```ts
 export const c = new AutoDeployer("auto-deployer-c", {
     org: "pulumi",
