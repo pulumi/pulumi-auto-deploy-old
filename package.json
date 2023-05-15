@@ -1,0 +1,13 @@
+{
+    "name": "pulumi-auto-deploy",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18.7.13"
+    },
+    "dependencies": {
+        "@pulumi/awsx": "^1.0.2",
+        "@pulumi/pulumi": "^3.0.0",
+        "@types/node-fetch": "^2.6.2",
+        "node-fetch": "2"
+    }
+}

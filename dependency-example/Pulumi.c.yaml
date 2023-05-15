@@ -1,0 +1,2 @@
+config:
+  dependency-example:parent: a
