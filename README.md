@@ -1,4 +1,9 @@
-# pulumi-auto-deploy
+# pulumi-auto-deploy-old
+
+This repo was a proof of concept. A multi-language of this component is now maintained and published to the pulumi registry:
+- https://www.pulumi.com/registry/packages/auto-deploy/
+- github.com/pulumi/pulumi-auto-deploy
+
 A proof of concept for automatically deploying dependent stacks using [Pulumi Deployments](https://www.pulumi.com/docs/intro/deployments/).
 
 
